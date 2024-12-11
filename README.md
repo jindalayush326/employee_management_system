@@ -31,7 +31,7 @@ JSON Server (for the mock API)
 
 # Setup Instructions
 1. Clone the Repository
-git clone https://github.com/jindalayush326/employee-management-dashboard.git
+git clone https://github.com/jindalayush326/employee_management_system.git
 cd employee-management-dashboard
 
 2. Install Dependencies
